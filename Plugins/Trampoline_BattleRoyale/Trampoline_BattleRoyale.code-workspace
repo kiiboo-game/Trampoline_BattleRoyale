@@ -1,0 +1,52 @@
+{
+    "folders": [
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/saic6/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Trampoline_BattleRoyale/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/saic6/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Trampoline_BattleRoyale/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/saic6/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Trampoline_BattleRoyale/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/saic6/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Trampoline_BattleRoyale/Fortnite"
+        },
+        {
+            "name": "Trampoline_BattleRoyale",
+            "path": "C:/Users/saic6/UEFN/Trampoline_BattleRoyale/Plugins/Trampoline_BattleRoyale/Content"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "workbench.colorTheme": "Verse (Dark)",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}

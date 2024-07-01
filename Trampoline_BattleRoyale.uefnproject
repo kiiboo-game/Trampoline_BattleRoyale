@@ -1,0 +1,44 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "Trampoline_BattleRoyale",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"compatibilityVersion": "30.20",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "Trampoline_BattleRoyale",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "7c30e1bd-49c4-d8c4-00e4-7cb97580ead2",
+		"projectVersePath": "",
+		"modules":
+		{
+			"Trampoline_BattleRoyale": "ac1a306e-4f4d-0e07-3c17-798c395e9ff0"
+		}
+	}
+}
