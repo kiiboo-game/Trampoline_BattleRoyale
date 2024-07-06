@@ -22,10 +22,10 @@
 	{
 		"matchmaking":
 		{
-			"maxPlayers": 8,
-			"maxTeamCount": 8,
-			"maxTeamSize": 8,
-			"maxSocialPartySize": 8,
+			"maxPlayers": 10,
+			"maxTeamCount": 10,
+			"maxTeamSize": 10,
+			"maxSocialPartySize": 10,
 			"allowJoinInProgress": true,
 			"allowSquadFillOption": false,
 			"islandQueuePrivacy": "Unrestricted",
